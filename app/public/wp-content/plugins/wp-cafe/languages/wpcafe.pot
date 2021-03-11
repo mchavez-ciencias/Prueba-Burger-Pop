@@ -1,0 +1,1671 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Cafe\n"
+"POT-Creation-Date: 2021-03-09 14:43+0600\n"
+"PO-Revision-Date: 2021-03-09 14:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcafe.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: bootstrap.php:138
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: bootstrap.php:141
+msgid "Install WooCommerce"
+msgstr ""
+
+#: bootstrap.php:151
+msgid "WpCafe requires WooCommerce , which is currently NOT RUNNING."
+msgstr ""
+
+#: bootstrap.php:159
+msgid "Buy Pro"
+msgstr ""
+
+#: bootstrap.php:168
+msgid "Unlock more features with the pro version"
+msgstr ""
+
+#: core/action/wpc-action.php:21
+msgid "Something went wrong."
+msgstr ""
+
+#: core/action/wpc-ajax-action.php:140
+msgid "Booking placement was failed, please try again!"
+msgstr ""
+
+#: core/action/wpc-ajax-action.php:144
+msgid "Please enter all required fields!"
+msgstr ""
+
+#: core/action/wpc-ajax-action.php:181
+msgid "No reservation found with the given details"
+msgstr ""
+
+#: core/action/wpc-ajax-action.php:186
+msgid "Cancellation requested successfully!"
+msgstr ""
+
+#: core/action/wpc-ajax-action.php:190
+msgid "Please enter required fields correctly!"
+msgstr ""
+
+#: core/base/wpc-custom-post.php:29 core/base/wpc-custom-post.php:105
+msgid "Add New "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:30 core/base/wpc-custom-post.php:106
+msgid "Edit "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:31 core/base/wpc-custom-post.php:104
+msgid "New "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:32
+msgid "View "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:33 core/base/wpc-custom-post.php:109
+msgid "Search "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:34 core/base/wpc-custom-post.php:35
+msgid "No "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:36 core/base/wpc-custom-post.php:112
+#: core/base/wpc-custom-post.php:114
+msgid "Parent "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:107
+msgid "Update "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:108
+msgid "Add or remove "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:110
+msgid "Popular "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:111
+msgid "All "
+msgstr ""
+
+#: core/base/wpc-custom-post.php:113
+msgid "Choose from the most used "
+msgstr ""
+
+#: core/base/wpc-metabox.php:62
+msgid "meta data field not found"
+msgstr ""
+
+#: core/base/wpc-metabox.php:245
+msgid "Add"
+msgstr ""
+
+#: core/base/wpc-metabox.php:510 core/base/wpc-metabox.php:695
+msgid "Remove image"
+msgstr ""
+
+#: core/enqueue/wpc-enqueue.php:215
+msgid "End time must be after start time"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: core/guten-block/inc/init.php:15
+#: core/guten-block/src/blocks/food-list/index.js:15
+#: core/guten-block/src/blocks/food-tab/index.js:15
+msgid "WP Cafe"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:25
+#: core/guten-block/src/blocks/food-tab/edit.js:32
+msgid "Select one or more categories"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:30
+#: core/guten-block/src/blocks/food-tab/edit.js:35
+msgid "No Categories Found"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:45
+#: core/guten-block/src/blocks/food-tab/edit.js:50 core/menu/wpc-menus.php:23
+#: core/menu/wpc-menus.php:52 core/settings/wpc-key-options.php:34
+msgid "Settings"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:48
+#: core/guten-block/src/blocks/food-list/edit.js:150
+#: core/guten-block/src/blocks/food-tab/edit.js:53
+#: core/guten-block/src/blocks/food-tab/edit.js:155
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:116
+#: widgets/wpc-menus-list/wpc-menus-list.php:91
+msgid "Menu Order"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:51
+#: core/guten-block/src/blocks/food-tab/edit.js:56
+msgid "style 1"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:52
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:61
+msgid "Style 2"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:63
+#: core/guten-block/src/blocks/food-tab/edit.js:68
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:128
+#: widgets/wpc-menus-list/wpc-menus-list.php:103
+msgid "Show Thumbnail"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:75
+#: core/guten-block/src/blocks/food-tab/edit.js:80
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:73
+msgid "Select Categories"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:86
+#: core/guten-block/src/blocks/food-tab/edit.js:91
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:152
+#: widgets/wpc-menus-list/wpc-menus-list.php:125
+msgid "Show Description"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:96
+#: core/guten-block/src/blocks/food-tab/edit.js:101
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:163
+#: widgets/wpc-menus-list/wpc-menus-list.php:136
+msgid "Description Limit"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:108
+#: core/guten-block/src/blocks/food-tab/edit.js:113
+msgid "Show Cart Button"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:118
+#: core/guten-block/src/blocks/food-tab/edit.js:123
+msgid "Show Title Link"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:128
+#: core/guten-block/src/blocks/food-tab/edit.js:133
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:140
+#: widgets/wpc-menus-list/wpc-menus-list.php:114
+msgid "Show Item Status"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:138
+#: core/guten-block/src/blocks/food-tab/edit.js:143
+msgid "Menu Count"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:153
+#: core/guten-block/src/blocks/food-tab/edit.js:158
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:120
+#: widgets/wpc-menus-list/wpc-menus-list.php:95
+msgid "ASC"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/edit.js:154
+#: core/guten-block/src/blocks/food-tab/edit.js:159
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:121
+#: widgets/wpc-menus-list/wpc-menus-list.php:96
+msgid "DESC"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/index.js:10
+#: core/guten-block/src/blocks/food-list/index.js:14
+msgid "WPC Food List"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-list/index.js:16
+#: core/guten-block/src/blocks/food-tab/index.js:16
+msgid "Food Tab"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-tab/edit.js:57
+msgid "style 2"
+msgstr ""
+
+#: core/guten-block/src/blocks/food-tab/index.js:10
+#: core/guten-block/src/blocks/food-tab/index.js:14
+msgid "WPC Food Tab"
+msgstr ""
+
+#: core/menu/wpc-menus.php:24
+msgid "WpCafe"
+msgstr ""
+
+#: core/menu/wpc-menus.php:37
+msgid "Add new bookings"
+msgstr ""
+
+#: core/menu/wpc-menus.php:38 core/post-type/cpt.php:50
+msgid "Reservations"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:23
+msgid "Reservation Info"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:36
+#: core/shortcodes/views/reservation/reservation-form-template.php:57
+msgid "Our last booking time is"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:38
+#: core/shortcodes/views/reservation/reservation-form-template.php:59
+msgid " You can boook before"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:40
+#: core/shortcodes/views/reservation/reservation-form-template.php:61
+msgid " minutes of closing time."
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:45
+#: core/shortcodes/views/reservation/reservation-form-template.php:76
+msgid "Booking end time must be after start time"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:46
+#: core/settings/part/schedule.php:41 core/settings/part/schedule.php:64
+#: core/settings/part/schedule.php:75 core/settings/part/schedule.php:83
+#: core/settings/part/schedule.php:110 core/settings/part/schedule.php:125
+#: core/settings/part/schedule.php:135
+#: core/shortcodes/views/reservation/reservation-form-template.php:77
+msgid "Start time"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:46
+#: core/settings/part/schedule.php:42 core/settings/part/schedule.php:65
+#: core/settings/part/schedule.php:75 core/settings/part/schedule.php:85
+#: core/settings/part/schedule.php:111 core/settings/part/schedule.php:126
+#: core/settings/part/schedule.php:135
+#: core/shortcodes/views/reservation/reservation-form-template.php:77
+msgid "End time"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:46
+#: core/settings/part/schedule.php:17
+#: core/shortcodes/views/reservation/reservation-form-template.php:77
+msgid "Schedule"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:46
+#: core/shortcodes/views/reservation/reservation-form-template.php:77
+msgid "You can booked before "
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:47
+#: core/shortcodes/views/reservation/reservation-form-template.php:79
+msgid "Please select a date first"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:52
+#: core/report/wpc-reservation-report.php:64
+msgid "Name"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:56
+msgid "Name of customer"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:62
+#: core/report/wpc-reservation-report.php:65
+#: core/shortcodes/views/reservation/cancellation-form-template.php:15
+msgid "Email"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:66
+msgid "Email of customer"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:72
+#: core/report/wpc-reservation-report.php:66
+#: core/shortcodes/views/reservation/cancellation-form-template.php:22
+msgid "Phone"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:76
+msgid "Phone of customer"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:82
+#: core/shortcodes/views/reservation/cancellation-form-template.php:26
+msgid "Message"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:86
+msgid "Add a note"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:92
+#: core/report/wpc-reservation-report.php:68
+#: core/settings/part/schedule.php:109 core/settings/part/schedule.php:124
+#: core/shortcodes/views/reservation/reservation-form-template.php:184
+msgid "Date"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:97
+msgid "Date of reservation"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:102
+msgid "From"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:106
+msgid "Reservation start time"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:112
+msgid "To"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:116
+msgid "Reservation end time"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:122
+msgid "No of Guests"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:127
+msgid "No of total guests"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:131
+#: core/report/wpc-reservation-report.php:69
+msgid "Status"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:136
+msgid "Reservation status"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:143
+#: core/shortcodes/views/reservation/reservation-form-template.php:145
+msgid "Which branch of our restaurant"
+msgstr ""
+
+#: core/metaboxes/wpc-reservation-meta.php:148
+msgid "Show food location / branch in reservation form"
+msgstr ""
+
+#: core/post-type/cpt.php:29 core/post-type/cpt.php:37
+msgid "Food location"
+msgstr ""
+
+#: core/post-type/cpt.php:30 core/post-type/cpt.php:33
+msgid "Food locations"
+msgstr ""
+
+#: core/post-type/cpt.php:51
+msgid "Reservation"
+msgstr ""
+
+#: core/post-type/cpt.php:54
+msgid "reservation_forms"
+msgstr ""
+
+#: core/report/wpc-reservation-report.php:59
+msgid "Id"
+msgstr ""
+
+#: core/report/wpc-reservation-report.php:62
+msgid "Branch"
+msgstr ""
+
+#: core/report/wpc-reservation-report.php:67
+msgid "Seat(s)"
+msgstr ""
+
+#: core/report/wpc-reservation-report.php:70
+msgid "Invoice"
+msgstr ""
+
+#: core/settings/part/hooks.php:1
+msgid "Shortcodes"
+msgstr ""
+
+#: core/settings/part/hooks.php:5
+msgid "Reservation Form"
+msgstr ""
+
+#: core/settings/part/hooks.php:6
+msgid ""
+"Use this [wpc_reservation_form wpc_image_url='' form_style='2'] shortcode "
+"anywhere you want to show the reservation form"
+msgstr ""
+
+#: core/settings/part/hooks.php:20
+msgid "Show Food Menu tab"
+msgstr ""
+
+#: core/settings/part/hooks.php:21
+msgid ""
+"You can use [wpc_food_menu_tab wpc_food_categories='16,21,18,17,20,21'  "
+"no_of_product='5'  product_thumbnail ='yes' wpc_cart_button ='yes' "
+"wpc_menu_order='DESC' wpc_show_desc='yes' wpc_desc_limit='20' "
+"title_link_show='yes' show_item_status='yes']"
+msgstr ""
+
+#: core/settings/part/hooks.php:32
+msgid "Show Food Menu List"
+msgstr ""
+
+#: core/settings/part/hooks.php:33
+msgid ""
+"You can use [wpc_food_menu_list wpc_food_categories='16,21,18,17,20,21'  "
+"no_of_product='5'  wpc_cart_button ='yes' product_thumbnail ='yes' "
+"wpc_menu_order='DESC' wpc_show_desc='yes' wpc_desc_limit='20' "
+"title_link_show='yes' show_item_status='yes']"
+msgstr ""
+
+#: core/settings/part/key_options.php:1
+msgid "General Options"
+msgstr ""
+
+#: core/settings/part/key_options.php:4
+msgid "Display pages"
+msgstr ""
+
+#: core/settings/part/key_options.php:5
+msgid "Display reservation form only in the selected page"
+msgstr ""
+
+#: core/settings/part/key_options.php:9
+msgid "Select a page"
+msgstr ""
+
+#: core/settings/part/key_options.php:16
+#: core/settings/part/notifications.php:69
+#: core/settings/part/notifications.php:85
+#: core/settings/part/notifications.php:100
+#: core/settings/part/notifications.php:115
+msgid "pro version only"
+msgstr ""
+
+#: core/settings/part/key_options.php:27
+msgid "Automatically confirmed guest no"
+msgstr ""
+
+#: core/settings/part/key_options.php:28
+msgid ""
+"Confirmed a reservation if no. of guests is the selected number. This no. "
+"must be between minimum and maximum guest no."
+msgstr ""
+
+#: core/settings/part/key_options.php:32 core/settings/part/key_options.php:51
+#: core/settings/part/key_options.php:69
+msgid "Select no. of guests"
+msgstr ""
+
+#: core/settings/part/key_options.php:41
+msgid "This value must be in between "
+msgstr ""
+
+#: core/settings/part/key_options.php:41 core/settings/part/key_options.php:59
+#: core/settings/part/key_options.php:76
+msgid "Minimum"
+msgstr ""
+
+#: core/settings/part/key_options.php:41 core/settings/part/key_options.php:59
+#: core/settings/part/key_options.php:76
+msgid "Maximum"
+msgstr ""
+
+#: core/settings/part/key_options.php:41
+msgid " guest no."
+msgstr ""
+
+#: core/settings/part/key_options.php:46
+msgid "Minimum guest number"
+msgstr ""
+
+#: core/settings/part/key_options.php:47
+msgid "No. of minimum allowed guest for a single reservation"
+msgstr ""
+
+#: core/settings/part/key_options.php:59
+msgid " guest number must be less than "
+msgstr ""
+
+#: core/settings/part/key_options.php:59 core/settings/part/key_options.php:76
+msgid "guest number"
+msgstr ""
+
+#: core/settings/part/key_options.php:64
+msgid "Maximum guest number"
+msgstr ""
+
+#: core/settings/part/key_options.php:65
+msgid "No. of maximum allowed guest for a single reservation"
+msgstr ""
+
+#: core/settings/part/key_options.php:76
+msgid "guest number must be grater than "
+msgstr ""
+
+#: core/settings/part/key_options.php:81
+msgid "Allow Cancellations"
+msgstr ""
+
+#: core/settings/part/key_options.php:82
+msgid "Allow user to cancelled reservation through cancellation form"
+msgstr ""
+
+#: core/settings/part/key_options.php:93
+msgid "Require phone"
+msgstr ""
+
+#: core/settings/part/key_options.php:94
+msgid "Make phone / contact no. required while placing reservation"
+msgstr ""
+
+#: core/settings/part/key_options.php:106
+msgid "Pending message"
+msgstr ""
+
+#: core/settings/part/key_options.php:107
+msgid ""
+"Message which will be shown when a user successfully places a reservation"
+msgstr ""
+
+#: core/settings/part/key_options.php:115
+msgid "Reservation confirmed message"
+msgstr ""
+
+#: core/settings/part/key_options.php:116
+msgid "Message which will be shown when a user's reservation is confirmed"
+msgstr ""
+
+#: core/settings/part/key_options.php:123
+msgid "Booking Form"
+msgstr ""
+
+#: core/settings/part/key_options.php:126
+msgid "Calendar language"
+msgstr ""
+
+#: core/settings/part/key_options.php:127
+msgid ""
+"Translate reservation form , order type (Delivery/Pickup) day and month name"
+msgstr ""
+
+#: core/settings/part/key_options.php:134
+msgid "English"
+msgstr ""
+
+#: core/settings/part/key_options.php:134
+msgid "Russian"
+msgstr ""
+
+#: core/settings/part/key_options.php:135
+msgid "Arabic"
+msgstr ""
+
+#: core/settings/part/key_options.php:135
+msgid "Spanish"
+msgstr ""
+
+#: core/settings/part/key_options.php:136
+msgid "German"
+msgstr ""
+
+#: core/settings/part/key_options.php:136
+msgid "Japanese"
+msgstr ""
+
+#: core/settings/part/key_options.php:147
+msgid "Date format"
+msgstr ""
+
+#: core/settings/part/key_options.php:148
+msgid "Reservation and order type (Delivery/Pickup) date format"
+msgstr ""
+
+#: core/settings/part/key_options.php:166
+msgid "Time format"
+msgstr ""
+
+#: core/settings/part/key_options.php:167
+msgid "Reservation and order type (Delivery/Pickup) time format"
+msgstr ""
+
+#: core/settings/part/key_options.php:178
+msgid "Reservation form message"
+msgstr ""
+
+#: core/settings/part/key_options.php:179
+msgid " When there is no reservation schedule display message."
+msgstr ""
+
+#: core/settings/part/key_options.php:187
+msgid "Show branch"
+msgstr ""
+
+#: core/settings/part/key_options.php:188
+msgid "Show branches in reservation form"
+msgstr ""
+
+#: core/settings/part/key_options.php:198
+msgid "Require branch"
+msgstr ""
+
+#: core/settings/part/key_options.php:199
+msgid "Branch name is required while placing reservation"
+msgstr ""
+
+#: core/settings/part/notifications.php:2 core/settings/wpc-key-options.php:47
+msgid "Notifications"
+msgstr ""
+
+#: core/settings/part/notifications.php:5
+msgid "Sender email address"
+msgstr ""
+
+#: core/settings/part/notifications.php:6
+msgid "Mail will be sent both admin and user from this email address"
+msgstr ""
+
+#: core/settings/part/notifications.php:16
+msgid "Reply-To Name"
+msgstr ""
+
+#: core/settings/part/notifications.php:17
+msgid "Set the 'reply-to' name that will be shown on email sent to user"
+msgstr ""
+
+#: core/settings/part/notifications.php:27
+msgid "Admin email address"
+msgstr ""
+
+#: core/settings/part/notifications.php:28
+msgid ""
+"Set the admin-email address to use in email.If sender email address is not "
+"set, mail will be sent both admin and user from this address"
+msgstr ""
+
+#: core/settings/part/notifications.php:37
+msgid "Admin notification for new booking"
+msgstr ""
+
+#: core/settings/part/notifications.php:38
+msgid "Send email to admin when a new reservation arrives"
+msgstr ""
+
+#: core/settings/part/notifications.php:49
+msgid "Notify user about new booking request"
+msgstr ""
+
+#: core/settings/part/notifications.php:50
+msgid "Send email to user after placing a reservation successfully"
+msgstr ""
+
+#: core/settings/part/notifications.php:61
+msgid "Notify user confirmed request"
+msgstr ""
+
+#: core/settings/part/notifications.php:62
+msgid "Send email to user when admin update reservation status."
+msgstr ""
+
+#: core/settings/part/notifications.php:74
+msgid "Notify admin about confirmed request"
+msgstr ""
+
+#: core/settings/part/notifications.php:75
+msgid "Send email to admin when update reservation status from backend"
+msgstr ""
+
+#: core/settings/part/notifications.php:90
+msgid "Notify user about cancelled request"
+msgstr ""
+
+#: core/settings/part/notifications.php:91
+msgid "Send email to user when a reservation is cancelled from admin"
+msgstr ""
+
+#: core/settings/part/notifications.php:105
+msgid "Notify admin about cancelled request"
+msgstr ""
+
+#: core/settings/part/notifications.php:106
+msgid "Send email to admin when a reservation is cancelled from backend"
+msgstr ""
+
+#: core/settings/part/notifications.php:118
+msgid "Notification Emails"
+msgstr ""
+
+#: core/settings/part/notifications.php:121
+msgid "Template tags"
+msgstr ""
+
+#: core/settings/part/notifications.php:123
+msgid ""
+"Use the following tags to automatically add booking information to the emails"
+msgstr ""
+
+#: core/settings/part/notifications.php:128
+msgid "Email of the user who made the booking"
+msgstr ""
+
+#: core/settings/part/notifications.php:132
+msgid "* Name of the user who made the booking"
+msgstr ""
+
+#: core/settings/part/notifications.php:136
+msgid "* Number of people booked"
+msgstr ""
+
+#: core/settings/part/notifications.php:140
+msgid "* Date and time of the booking"
+msgstr ""
+
+#: core/settings/part/notifications.php:144
+msgid "Phone number if supplied with the request"
+msgstr ""
+
+#: core/settings/part/notifications.php:148
+msgid "Message added to the request"
+msgstr ""
+
+#: core/settings/part/notifications.php:152
+msgid "The name of this website"
+msgstr ""
+
+#: core/settings/part/notifications.php:156
+msgid "A link to this website"
+msgstr ""
+
+#: core/settings/part/notifications.php:160
+msgid "Current date and time"
+msgstr ""
+
+#: core/settings/part/notifications.php:172
+msgid "Admin new reservation email subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:173
+msgid ""
+"Subject of email that will be sent to admin when a new reservation occurs "
+msgstr ""
+
+#: core/settings/part/notifications.php:178
+msgid "New booking request"
+msgstr ""
+
+#: core/settings/part/notifications.php:183
+msgid "Admin new reservation email body"
+msgstr ""
+
+#: core/settings/part/notifications.php:184
+msgid "Body of email that will be sent to admin when a new reservation occurs "
+msgstr ""
+
+#: core/settings/part/notifications.php:193
+msgid "New request email subject to user"
+msgstr ""
+
+#: core/settings/part/notifications.php:194
+msgid ""
+"Subject of email that will be sent to user when a new reservation occurs "
+msgstr ""
+
+#: core/settings/part/notifications.php:199
+msgid "New booking request subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:204
+msgid "User new booking request email body"
+msgstr ""
+
+#: core/settings/part/notifications.php:205
+msgid "Body of email that will be sent to user when a new reservation occurs "
+msgstr ""
+
+#: core/settings/part/notifications.php:214
+msgid "Admin reservation confirm email subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:215
+msgid ""
+"Subject of email that will be sent to admin when a reservation is confirmed "
+msgstr ""
+
+#: core/settings/part/notifications.php:220
+msgid "New booking confirmed"
+msgstr ""
+
+#: core/settings/part/notifications.php:221
+#: core/settings/part/notifications.php:243
+#: core/settings/part/notifications.php:266
+#: core/settings/part/notifications.php:288
+msgid "Pro version only"
+msgstr ""
+
+#: core/settings/part/notifications.php:226
+msgid "Admin reservation confirm email body"
+msgstr ""
+
+#: core/settings/part/notifications.php:227
+msgid ""
+"Body of email that will be sent to admin when a reservation is confirmed "
+msgstr ""
+
+#: core/settings/part/notifications.php:236
+msgid "Admin booking cancelled Subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:237
+msgid ""
+"Subject of email that will be sent to admin when a reservation is cancelled "
+msgstr ""
+
+#: core/settings/part/notifications.php:242
+msgid "Reservation request cancelled"
+msgstr ""
+
+#: core/settings/part/notifications.php:248
+msgid "Admin booking cancelled email"
+msgstr ""
+
+#: core/settings/part/notifications.php:249
+msgid ""
+"Body of email that will be sent to admin when a reservation is cancelled "
+msgstr ""
+
+#: core/settings/part/notifications.php:259
+msgid "User confirmed email subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:260
+msgid ""
+"Subject of email that will be sent to user when reservation is confirmed "
+msgstr ""
+
+#: core/settings/part/notifications.php:265
+msgid "Confirm email subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:271
+msgid "User confirmed email"
+msgstr ""
+
+#: core/settings/part/notifications.php:272
+msgid "Body of email that will be sent to user when reservation is confirmed "
+msgstr ""
+
+#: core/settings/part/notifications.php:281
+msgid "User cancelled email subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:282
+msgid ""
+"Subject of email that will be sent to user when a reservation is cancelled "
+msgstr ""
+
+#: core/settings/part/notifications.php:287
+msgid "Rejected email subject"
+msgstr ""
+
+#: core/settings/part/notifications.php:293
+msgid "User cancelled email"
+msgstr ""
+
+#: core/settings/part/notifications.php:294
+msgid ""
+"Body of email that will be sent to user when a reservation is cancelled "
+msgstr ""
+
+#: core/settings/part/schedule.php:7
+msgid "Schedule options"
+msgstr ""
+
+#: core/settings/part/schedule.php:18
+msgid "Set opening and closing schedule of your restaurant"
+msgstr ""
+
+#: core/settings/part/schedule.php:23
+msgid ""
+"Weekly (set opening and closing schedule for each day of a week seperately)"
+msgstr ""
+
+#: core/settings/part/schedule.php:43 core/settings/part/schedule.php:66
+#: core/settings/part/schedule.php:86 core/settings/part/schedule.php:112
+#: core/settings/part/schedule.php:127
+msgid "clear"
+msgstr ""
+
+#: core/settings/part/schedule.php:80
+msgid "All day (set opening and closing schedule for all days of a week)"
+msgstr ""
+
+#: core/settings/part/schedule.php:96
+msgid "Exceptions"
+msgstr ""
+
+#: core/settings/part/schedule.php:97
+msgid "Set opening and closing schedule for any special day"
+msgstr ""
+
+#: core/settings/part/schedule.php:143
+msgid "Early bookings"
+msgstr ""
+
+#: core/settings/part/schedule.php:144
+msgid ""
+"Set time limit for early booking. user can not pre-book before the defined "
+"time"
+msgstr ""
+
+#: core/settings/part/schedule.php:151
+msgid "Any time"
+msgstr ""
+
+#: core/settings/part/schedule.php:152
+msgid "From 1 day advance"
+msgstr ""
+
+#: core/settings/part/schedule.php:153
+msgid "From 1 week advance"
+msgstr ""
+
+#: core/settings/part/schedule.php:154
+msgid "From 1 month advance"
+msgstr ""
+
+#: core/settings/part/schedule.php:165
+msgid "Late bookings"
+msgstr ""
+
+#: core/settings/part/schedule.php:166
+msgid ""
+"Set time limit for late booking. user can not pre-book after the defined time"
+msgstr ""
+
+#: core/settings/part/schedule.php:173
+msgid "Up to the last minute"
+msgstr ""
+
+#: core/settings/part/schedule.php:174
+msgid "Atleast 15 minutes in advance"
+msgstr ""
+
+#: core/settings/part/schedule.php:175
+msgid "Atleast 30 minutes in advance"
+msgstr ""
+
+#: core/settings/part/schedule.php:176
+msgid "Atleast 45 minutes in advance"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:28
+msgid "Your settings have been saved"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:37
+msgid "Visit"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:38
+msgid "Documentation"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:39
+msgid ""
+"reservation settings section for reservation schedule of your restaurant."
+msgstr ""
+
+#: core/settings/wpc-key-options.php:40
+msgid " for food menu options of your restaurant."
+msgstr ""
+
+#: core/settings/wpc-key-options.php:45
+msgid "Key options"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:45 core/settings/wpc-key-options.php:46
+#: core/settings/wpc-key-options.php:47
+msgid "( For reservation )"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:46
+msgid "Reservation schedule"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:48
+msgid "Menu settings"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:48
+msgid "( For food menu )"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:49
+msgid "Available shortcode"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:49
+msgid "( General )"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:129
+msgid ""
+"Thank you for  booking. Your booking is confirmed. Please check your email."
+msgstr ""
+
+#: core/settings/wpc-key-options.php:131
+msgid ""
+"Thank you for  booking. Your booking is pending. Please check your email."
+msgstr ""
+
+#: core/settings/wpc-key-options.php:180
+msgid "Food Menu Options"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:183
+msgid "Allow location"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:184
+msgid ""
+"Show location dropdown on front-end menu (only in front page) and checkout"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:194
+msgid "Allow Cart"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:195
+msgid "Show cart on the frontend"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:206
+msgid "Minicart icon"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:207
+msgid "Icon class for mini cart"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:212
+msgid "icon here"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:213
+msgid "For instance : fa fa-shopping-cart"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:218
+msgid "Primary color"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:219
+msgid "Choose primary color for menu"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:229
+msgid "Secondary color"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:230
+msgid "Choose secondary color for menu"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:240
+msgid "Minicart product background color"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:241
+msgid "Choose background color of minicart product background"
+msgstr ""
+
+#: core/settings/wpc-key-options.php:265
+msgid "Save Changes"
+msgstr ""
+
+#: core/shortcodes/hook.php:299
+msgid "Order location"
+msgstr ""
+
+#: core/shortcodes/hook.php:300
+msgid "Enter location"
+msgstr ""
+
+#: core/shortcodes/hook.php:315
+msgid "Please select a location"
+msgstr ""
+
+#: core/shortcodes/hook.php:337 core/shortcodes/hook.php:352
+#: core/shortcodes/hook.php:372
+msgid "Order menu"
+msgstr ""
+
+#: core/shortcodes/hook.php:373
+msgid "ID"
+msgstr ""
+
+#: core/shortcodes/views/reservation/cancellation-form-template.php:8
+msgid "Invoice Number"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:117
+msgid "Confirm Booking"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:118
+msgid "Edit Booking"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:134
+msgid "Choose a Date"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:158
+msgid "Your Name"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:159
+msgid "Name here"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:165
+msgid "Your Email"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:166
+msgid "Email here"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:174
+msgid "How can we contact you?"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:177
+msgid "Phone Number here"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:185
+msgid "Booking date here"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:199
+msgid "Start time here"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:213
+msgid "End time here"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:220
+msgid "Total Guest "
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:222
+msgid "Select no of geuests"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:230
+msgid "Special Information"
+msgstr ""
+
+#: core/shortcodes/views/reservation/reservation-form-template.php:231
+msgid "Enter Your Message here"
+msgstr ""
+
+#: utils/pro-awareness/pro-awareness.php:147
+msgid "Default Title"
+msgstr ""
+
+#: utils/wpc-utilities.php:505
+msgid "Ok"
+msgstr ""
+
+#: utils/wpc-utilities.php:537
+msgid "Out of stock"
+msgstr ""
+
+#: utils/wpc-utilities.php:602
+msgid "Adding..."
+msgstr ""
+
+#: utils/wpc-utilities.php:603
+msgid "Added"
+msgstr ""
+
+#: utils/wpc-utilities.php:659 utils/wpc-utilities.php:671
+msgid "Invoice No: "
+msgstr ""
+
+#: utils/wpc-utilities.php:663 utils/wpc-utilities.php:674
+msgid "Admin"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:26
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:52
+msgid "WPC Food Menu Tab"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:59
+msgid "Menu tab Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:63
+#: widgets/wpc-menus-list/wpc-menus-list.php:63
+msgid "Menu Style 1"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:64
+#: widgets/wpc-menus-list/wpc-menus-list.php:64
+msgid "Menu Style 2"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:82
+msgid "Tab title"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:91
+msgid "Repeater List"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:96
+msgid "Add Label"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:108
+#: widgets/wpc-menus-list/wpc-menus-list.php:83
+msgid "Menu count"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:130
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:142
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:154
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:175
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:186
+#: widgets/wpc-menus-list/wpc-menus-list.php:105
+#: widgets/wpc-menus-list/wpc-menus-list.php:116
+#: widgets/wpc-menus-list/wpc-menus-list.php:127
+#: widgets/wpc-menus-list/wpc-menus-list.php:147
+#: widgets/wpc-menus-list/wpc-menus-list.php:158
+msgid "Show"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:131
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:143
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:155
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:176
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:187
+#: widgets/wpc-menus-list/wpc-menus-list.php:106
+#: widgets/wpc-menus-list/wpc-menus-list.php:117
+#: widgets/wpc-menus-list/wpc-menus-list.php:128
+#: widgets/wpc-menus-list/wpc-menus-list.php:148
+#: widgets/wpc-menus-list/wpc-menus-list.php:159
+msgid "Hide"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:173
+#: widgets/wpc-menus-list/wpc-menus-list.php:145
+msgid "Use Title Link?"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:184
+#: widgets/wpc-menus-list/wpc-menus-list.php:156
+msgid "Show add to cart button"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:202
+#: widgets/wpc-menus-list/wpc-menus-list.php:175
+msgid "Item Status Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:210
+#: widgets/wpc-menus-list/wpc-menus-list.php:183
+msgid "Item Status Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:220
+#: widgets/wpc-menus-list/wpc-menus-list.php:193
+msgid "Item Status BG Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:231
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:282
+#: widgets/wpc-menus-list/wpc-menus-list.php:204
+#: widgets/wpc-menus-list/wpc-menus-list.php:255
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:91
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:140
+msgid "Typography"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:238
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:341
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:651
+#: widgets/wpc-menus-list/wpc-menus-list.php:211
+#: widgets/wpc-menus-list/wpc-menus-list.php:314
+#: widgets/wpc-menus-list/wpc-menus-list.php:481
+msgid "Padding"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:253
+#: widgets/wpc-menus-list/wpc-menus-list.php:226
+msgid "Cart Button Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:261
+#: widgets/wpc-menus-list/wpc-menus-list.php:234
+msgid "Cart Button Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:271
+#: widgets/wpc-menus-list/wpc-menus-list.php:244
+msgid "Cart Button BG Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:289
+#: widgets/wpc-menus-list/wpc-menus-list.php:262
+msgid "Width"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:315
+#: widgets/wpc-menus-list/wpc-menus-list.php:288
+msgid "Height"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:356
+msgid "Nav style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:363
+msgid "Alignment"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:368
+msgid "Left"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:372
+msgid "Center"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:376
+msgid "Right"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:380
+msgid "Justified"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:397
+msgid "Nav Title Typography"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:411
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:239
+msgid "Normal"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:418
+msgid "Nav Title Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:430
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:276
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:324
+msgid "Border"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:443
+msgid "Active"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:449
+msgid "Nav active color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:461
+msgid "Nav Angle Active color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:472
+msgid "Border active"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:489
+#: widgets/wpc-menus-list/wpc-menus-list.php:329
+msgid "Title Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:496
+#: widgets/wpc-menus-list/wpc-menus-list.php:336
+msgid "Title Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:506
+#: widgets/wpc-menus-list/wpc-menus-list.php:346
+msgid "Title Hover Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:516
+msgid "Title BG Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:526
+msgid "Price BG Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:538
+#: widgets/wpc-menus-list/wpc-menus-list.php:358
+msgid "Title Typography"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:545
+#: widgets/wpc-menus-list/wpc-menus-list.php:365
+msgid "Title Margin"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:560
+#: widgets/wpc-menus-list/wpc-menus-list.php:380
+msgid "Price Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:567
+#: widgets/wpc-menus-list/wpc-menus-list.php:387
+msgid "Price Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:580
+#: widgets/wpc-menus-list/wpc-menus-list.php:410
+msgid "Price Typography"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:591
+#: widgets/wpc-menus-list/wpc-menus-list.php:421
+msgid "Description Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:598
+#: widgets/wpc-menus-list/wpc-menus-list.php:428
+msgid "Description Color"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:611
+#: widgets/wpc-menus-list/wpc-menus-list.php:441
+msgid "Description Typography"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:619
+#: widgets/wpc-menus-list/wpc-menus-list.php:449
+msgid "Description Margin"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:633
+#: widgets/wpc-menus-list/wpc-menus-list.php:463
+msgid "Advance Style"
+msgstr ""
+
+#: widgets/wpc-food-menu-tab/wpc-food-menu-tab.php:640
+#: widgets/wpc-menus-list/wpc-menus-list.php:470
+msgid "Margin"
+msgstr ""
+
+#: widgets/wpc-menus-list/wpc-menus-list.php:26
+#: widgets/wpc-menus-list/wpc-menus-list.php:52
+msgid "WPC Food Menu List"
+msgstr ""
+
+#: widgets/wpc-menus-list/wpc-menus-list.php:59
+msgid "Menu Style"
+msgstr ""
+
+#: widgets/wpc-menus-list/wpc-menus-list.php:72
+msgid "Menu Category"
+msgstr ""
+
+#: widgets/wpc-menus-list/wpc-menus-list.php:397
+msgid "Price Background Color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:26
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:50
+msgid "WPC Reservation Form"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:57
+msgid "Style"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:60
+msgid "Style 1"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:71
+msgid "Reservation Image"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:79
+msgid "Label Color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:101
+msgid "Input field"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:108
+msgid "Input Color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:118
+msgid "Input Background Color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:128
+msgid "Input Placeholder Color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:147
+msgid "Input Height"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:172
+msgid "Textarea Height"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:198
+msgid "Input Padding"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:213
+msgid "Button"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:220
+msgid "Button Link color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:246
+msgid "Button color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:256
+msgid "Button Background color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:267
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:315
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:381
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:288
+msgid "Hover"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:294
+msgid "Button Hover color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:304
+msgid "Button Background Hover color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:337
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:352
+msgid "Advance"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:359
+msgid "Form Backround color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:369
+msgid "Calender BG color"
+msgstr ""
+
+#: widgets/wpc-resevation-form/wpc-resevation-form.php:389
+msgid "Box Padding"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://product.themewinter.com/wpcafe"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WordPress Restaurant solution plugin to launch Restaurant Websites."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themewinter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themewinter.com/"
+msgstr ""

@@ -1,0 +1,12 @@
+2019-10-09T06:42:10+00:00 CRITICAL syntax error, unexpected ';', expecting ':' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-menu.php on line 758
+
+2019-10-09T06:49:14+00:00 CRITICAL syntax error, unexpected end of file in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-menu.php on line 1009
+
+2019-10-09T09:56:19+00:00 CRITICAL syntax error, unexpected ']' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\testimonial.php on line 146
+
+2019-10-09T09:56:23+00:00 CRITICAL syntax error, unexpected ']' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\testimonial.php on line 146
+
+2019-10-09T09:56:24+00:00 CRITICAL syntax error, unexpected ']' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\testimonial.php on line 146
+
+2019-10-09T10:04:36+00:00 CRITICAL syntax error, unexpected ''style4'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\testimonial.php on line 375
+

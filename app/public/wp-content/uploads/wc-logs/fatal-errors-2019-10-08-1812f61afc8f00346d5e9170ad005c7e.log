@@ -1,0 +1,106 @@
+2019-10-08T04:29:57+00:00 CRITICAL Uncaught Error: Class 'ElementsKit' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:15
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-settings.php(525): do_action('init')
+#8 F:\wamp\ in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 15
+
+2019-10-08T04:30:44+00:00 CRITICAL Uncaught Error: Class 'elementor' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:15
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-settings.php(525): do_action('init')
+#8 F:\wamp\ww in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 15
+
+2019-10-08T04:30:47+00:00 CRITICAL Uncaught Error: Class 'elementor' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:15
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-settings.php(525): do_action('init')
+#8 F:\wamp\ww in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 15
+
+2019-10-08T04:31:36+00:00 CRITICAL Uncaught Error: Class 'Elementor' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:15
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-settings.php(525): do_action('init')
+#8 F:\wamp\ww in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 15
+
+2019-10-08T04:31:50+00:00 CRITICAL Uncaught Error: Class 'Modules\Parallax\Init' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:29
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php(17): Blo_Modules->load_classes()
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includ in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 29
+
+2019-10-08T04:32:07+00:00 CRITICAL Uncaught Error: Class 'Modules\Parallax\Init' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:27
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php(16): Blo_Modules->load_classes()
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includ in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 27
+
+2019-10-08T04:32:44+00:00 CRITICAL Uncaught Error: Class 'Modules\Parallax\Init' not found in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php:27
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php(16): Blo_Modules->load_classes()
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Blo_Modules->{closure}('')
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\plugin.php(489): do_action('elementor/init')
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(286): Elementor\Plugin->init('')
+#6 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-includ in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\gloreya-essential\modules\init.php on line 27
+
+2019-10-08T06:25:48+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php:339
+Stack trace:
+#0 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\base\widget-base.php(448): Elementor\Gloreya_Product_slider_Widget->render()
+#1 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\base\widget-base.php(578): Elementor\Widget_Base->render_content()
+#2 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\base\element-base.php(592): Elementor\Widget_Base->_print_content()
+#3 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\base\element-base.php(808): Elementor\Element_Base->print_element()
+#4 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\plugins\elementor\includes\base\element-base.php(592): Elementor\Element_Base->_print_content()
+#5 F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 339
+
+2019-10-08T06:51:35+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 362
+
+2019-10-08T06:52:06+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 362
+
+2019-10-08T07:41:19+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 353
+
+2019-10-08T09:20:02+00:00 CRITICAL syntax error, unexpected '}' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 228
+
+2019-10-08T09:20:16+00:00 CRITICAL syntax error, unexpected '}' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 228
+
+2019-10-08T09:20:37+00:00 CRITICAL syntax error, unexpected '}' in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 228
+
+2019-10-08T09:21:56+00:00 CRITICAL syntax error, unexpected 'switch' (T_SWITCH) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 233
+
+2019-10-08T09:22:36+00:00 CRITICAL syntax error, unexpected '$query' (T_VARIABLE) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\components\editor\elementor\widgets\food-product-slider.php on line 234
+

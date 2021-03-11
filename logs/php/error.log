@@ -1,0 +1,758 @@
+[10-Mar-2021 23:07:51 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:07:51 UTC] PHP Stack trace:
+[10-Mar-2021 23:07:51 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:07:51 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:07:51 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:07:51 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:07:51 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:07:51 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:07:51 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:07:51 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:07:51 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:07:51 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:07:51 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:07:51 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:07:51 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:07:56 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:07:56 UTC] PHP Stack trace:
+[10-Mar-2021 23:07:56 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:07:56 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:07:56 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:07:56 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:07:56 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:07:56 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:07:56 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:07:56 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:07:56 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:07:56 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:07:56 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:07:56 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:07:56 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:07:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:07:57 UTC] PHP Stack trace:
+[10-Mar-2021 23:07:57 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:07:57 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:07:57 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:07:57 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:07:57 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:07:57 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:07:57 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:07:57 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:07:57 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:07:57 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:07:57 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:07:57 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:07:57 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:07:59 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:07:59 UTC] PHP Stack trace:
+[10-Mar-2021 23:07:59 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:07:59 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:07:59 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:07:59 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:07:59 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:07:59 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:07:59 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:07:59 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:07:59 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:07:59 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:07:59 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:07:59 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:07:59 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:08:06 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:08:06 UTC] PHP Stack trace:
+[10-Mar-2021 23:08:06 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:08:06 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:08:06 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:08:06 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:08:06 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:08:06 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:08:06 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:08:06 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:08:06 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:08:06 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:08:06 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:08:06 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:08:06 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:08:08 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:08:08 UTC] PHP Stack trace:
+[10-Mar-2021 23:08:08 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:08:08 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:08:08 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:08:08 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:08:08 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:08:08 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:08:08 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:08:08 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:08:08 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:08:08 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:08:08 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:08:08 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:08:08 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:08:10 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:08:10 UTC] PHP Stack trace:
+[10-Mar-2021 23:08:10 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:08:10 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:08:10 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:08:10 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:08:10 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:08:10 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:08:10 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:08:10 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:08:10 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:08:10 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:08:10 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:08:10 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:08:10 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:08:43 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:08:43 UTC] PHP Stack trace:
+[10-Mar-2021 23:08:43 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:08:43 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:08:43 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:08:43 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:08:43 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:08:43 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:08:43 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:08:43 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:08:43 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:08:43 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:08:43 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:08:43 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:08:43 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:09:24 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:09:24 UTC] PHP Stack trace:
+[10-Mar-2021 23:09:24 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:09:24 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:09:24 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:09:24 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:09:24 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:09:24 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:09:24 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:09:24 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:09:24 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:09:24 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:09:24 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:09:24 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:09:24 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:10:48 UTC] PHP Warning:  sprintf(): Too few arguments in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[10-Mar-2021 23:10:48 UTC] PHP Stack trace:
+[10-Mar-2021 23:10:48 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:0
+[10-Mar-2021 23:10:48 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/themes.php:10
+[10-Mar-2021 23:10:48 UTC] PHP   3. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin.php:259
+[10-Mar-2021 23:10:48 UTC] PHP   4. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:10:48 UTC] PHP   5. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:10:48 UTC] PHP   6. TGM_Plugin_Activation->install_plugins_page() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:10:48 UTC] PHP   7. TGMPA_List_Table->process_bulk_actions() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:654
+[10-Mar-2021 23:10:48 UTC] PHP   8. TGMPA_Bulk_Installer->bulk_install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:2888
+[10-Mar-2021 23:10:48 UTC] PHP   9. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3282
+[10-Mar-2021 23:10:48 UTC] PHP  10. TGMPA_Bulk_Installer->run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3169
+[10-Mar-2021 23:10:48 UTC] PHP  11. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-wp-upgrader.php:823
+[10-Mar-2021 23:10:48 UTC] PHP  12. TGMPA_Bulk_Installer_Skin->after() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/themes/gloreya/core/libs/class-tgm-plugin-activation.php:3549
+[10-Mar-2021 23:10:48 UTC] PHP  13. sprintf() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/includes/class-bulk-upgrader-skin.php:152
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\MobileApp::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:112
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\MobileApp::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\MobileApp::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/MobileApp.php:34
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\MobileApp::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:112
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\MobileApp::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\MobileApp::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:34 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\MobileApp::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/MobileApp.php:34
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:115
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/OnboardingPayments.php:33
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:115
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:34 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\OnboardingPayments::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/OnboardingPayments.php:33
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\WooCommercePayments::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:117
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\WooCommercePayments::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/WooCommercePayments.php:48
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:120
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/GivingFeedbackNotes.php:36
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:120
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:34 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\GivingFeedbackNotes::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/GivingFeedbackNotes.php:36
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:121
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/StartDropshippingBusiness.php:34
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:121
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:34 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\StartDropshippingBusiness::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/StartDropshippingBusiness.php:34
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:123
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/MigrateFromShopify.php:35
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:123
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:34 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\MigrateFromShopify::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/MigrateFromShopify.php:35
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:124
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/InsightFirstSale.php:35
+[10-Mar-2021 23:20:34 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:34 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:34 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:34 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:34 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:34 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:34 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:34 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:34 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:124
+[10-Mar-2021 23:20:34 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:34 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:34 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\InsightFirstSale::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/InsightFirstSale.php:35
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:126
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NeedSomeInspiration.php:33
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:126
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NeedSomeInspiration.php:38
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:126
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NeedSomeInspiration.php:33
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:126
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\NeedSomeInspiration::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NeedSomeInspiration.php:38
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:127
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/OnlineClothingStore.php:51
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:127
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\OnlineClothingStore::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/OnlineClothingStore.php:51
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\FirstProduct::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:128
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\FirstProduct::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\FirstProduct::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/FirstProduct.php:33
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\FirstProduct::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:128
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\FirstProduct::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\FirstProduct::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\FirstProduct::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/FirstProduct.php:33
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:130
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/RealTimeOrderAlerts.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:130
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\RealTimeOrderAlerts::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/RealTimeOrderAlerts.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:134
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/EditProductsOnTheMove.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:134
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\EditProductsOnTheMove::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/EditProductsOnTheMove.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:135
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/PerformanceOnMobile.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:135
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\PerformanceOnMobile::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/PerformanceOnMobile.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:136
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/ManageOrdersOnTheGo.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:136
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\ManageOrdersOnTheGo::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/ManageOrdersOnTheGo.php:34
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\DrawAttention::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:140
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\DrawAttention::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\DrawAttention::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/DrawAttention.php:43
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\DrawAttention::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:140
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\DrawAttention::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\DrawAttention::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\DrawAttention::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/DrawAttention.php:43
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:141
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/ChoosingTheme.php:33
+[10-Mar-2021 23:20:35 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:35 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:35 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:35 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:35 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:35 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:35 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:35 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:35 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:141
+[10-Mar-2021 23:20:35 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:35 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:35 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\ChoosingTheme::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/ChoosingTheme.php:33
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:142
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/InsightFirstProductAndPayment.php:35
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:142
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:36 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\InsightFirstProductAndPayment::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/InsightFirstProductAndPayment.php:35
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:143
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/AddFirstProduct.php:33
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:143
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/AddFirstProduct.php:33
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:143
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:36 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/AddFirstProduct.php:33
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:143
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:36 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\AddFirstProduct::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/AddFirstProduct.php:33
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:144
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/AddingAndManangingProducts.php:38
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:144
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:36 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\AddingAndManangingProducts::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/AddingAndManangingProducts.php:38
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:145
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:74
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/CustomizingProductCatalog.php:61
+[10-Mar-2021 23:20:36 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php on line 32
+[10-Mar-2021 23:20:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:36 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:36 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:36 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:36 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:36 UTC] PHP   6. Automattic\WooCommerce\Admin\Events->possibly_add_notes() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:95
+[10-Mar-2021 23:20:36 UTC] PHP   7. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::possibly_add_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:145
+[10-Mar-2021 23:20:36 UTC] PHP   8. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::can_be_added() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:76
+[10-Mar-2021 23:20:36 UTC] PHP   9. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::get_note() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/NoteTraits.php:50
+[10-Mar-2021 23:20:36 UTC] PHP  10. Automattic\WooCommerce\Admin\Notes\CustomizingProductCatalog::wc_admin_active_for() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Notes/CustomizingProductCatalog.php:61
+[10-Mar-2021 23:20:39 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/WCAdminActiveForProvider.php on line 22
+[10-Mar-2021 23:20:39 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:39 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:39 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:39 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:39 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:39 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:39 UTC] PHP   6. Automattic\WooCommerce\Admin\RemoteInboxNotifications\RemoteInboxNotificationsEngine::run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:99
+[10-Mar-2021 23:20:39 UTC] PHP   7. Automattic\WooCommerce\Admin\RemoteInboxNotifications\SpecRunner::run_spec() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/RemoteInboxNotificationsEngine.php:95
+[10-Mar-2021 23:20:39 UTC] PHP   8. Automattic\WooCommerce\Admin\RemoteInboxNotifications\EvaluateAndGetStatus::evaluate() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/SpecRunner.php:44
+[10-Mar-2021 23:20:39 UTC] PHP   9. Automattic\WooCommerce\Admin\RemoteInboxNotifications\RuleEvaluator->evaluate() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/EvaluateAndGetStatus.php:32
+[10-Mar-2021 23:20:39 UTC] PHP  10. Automattic\WooCommerce\Admin\RemoteInboxNotifications\WCAdminActiveForRuleProcessor->process() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/RuleEvaluator.php:47
+[10-Mar-2021 23:20:39 UTC] PHP  11. Automattic\WooCommerce\Admin\RemoteInboxNotifications\WCAdminActiveForProvider->get_wcadmin_active_for_in_seconds() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/WCAdminActiveForRuleProcessor.php:37
+[10-Mar-2021 23:20:39 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/WCAdminActiveForProvider.php on line 22
+[10-Mar-2021 23:20:39 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:39 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:39 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:39 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:39 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:39 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:39 UTC] PHP   6. Automattic\WooCommerce\Admin\RemoteInboxNotifications\RemoteInboxNotificationsEngine::run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:99
+[10-Mar-2021 23:20:39 UTC] PHP   7. Automattic\WooCommerce\Admin\RemoteInboxNotifications\SpecRunner::run_spec() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/RemoteInboxNotificationsEngine.php:95
+[10-Mar-2021 23:20:39 UTC] PHP   8. Automattic\WooCommerce\Admin\RemoteInboxNotifications\EvaluateAndGetStatus::evaluate() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/SpecRunner.php:44
+[10-Mar-2021 23:20:39 UTC] PHP   9. Automattic\WooCommerce\Admin\RemoteInboxNotifications\RuleEvaluator->evaluate() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/EvaluateAndGetStatus.php:32
+[10-Mar-2021 23:20:39 UTC] PHP  10. Automattic\WooCommerce\Admin\RemoteInboxNotifications\WCAdminActiveForRuleProcessor->process() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/RuleEvaluator.php:47
+[10-Mar-2021 23:20:39 UTC] PHP  11. Automattic\WooCommerce\Admin\RemoteInboxNotifications\WCAdminActiveForProvider->get_wcadmin_active_for_in_seconds() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/WCAdminActiveForRuleProcessor.php:37
+[10-Mar-2021 23:20:39 UTC] PHP Warning:  A non-numeric value encountered in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/WCAdminActiveForProvider.php on line 22
+[10-Mar-2021 23:20:39 UTC] PHP Stack trace:
+[10-Mar-2021 23:20:39 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:0
+[10-Mar-2021 23:20:39 UTC] PHP   2. do_action_ref_array() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-cron.php:138
+[10-Mar-2021 23:20:39 UTC] PHP   3. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:551
+[10-Mar-2021 23:20:39 UTC] PHP   4. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:20:39 UTC] PHP   5. Automattic\WooCommerce\Admin\Events->do_wc_admin_daily() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:20:39 UTC] PHP   6. Automattic\WooCommerce\Admin\RemoteInboxNotifications\RemoteInboxNotificationsEngine::run() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php:99
+[10-Mar-2021 23:20:39 UTC] PHP   7. Automattic\WooCommerce\Admin\RemoteInboxNotifications\SpecRunner::run_spec() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/RemoteInboxNotificationsEngine.php:95
+[10-Mar-2021 23:20:39 UTC] PHP   8. Automattic\WooCommerce\Admin\RemoteInboxNotifications\EvaluateAndGetStatus::evaluate() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/SpecRunner.php:44
+[10-Mar-2021 23:20:39 UTC] PHP   9. Automattic\WooCommerce\Admin\RemoteInboxNotifications\RuleEvaluator->evaluate() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/EvaluateAndGetStatus.php:32
+[10-Mar-2021 23:20:39 UTC] PHP  10. Automattic\WooCommerce\Admin\RemoteInboxNotifications\WCAdminActiveForRuleProcessor->process() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/RuleEvaluator.php:47
+[10-Mar-2021 23:20:39 UTC] PHP  11. Automattic\WooCommerce\Admin\RemoteInboxNotifications\WCAdminActiveForProvider->get_wcadmin_active_for_in_seconds() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/WCAdminActiveForRuleProcessor.php:37
+[10-Mar-2021 23:25:35 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:25:35 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Mar-2021 23:40:22 UTC] WordPress database error Table 'local.wp_woocommerce_sessions' doesn't exist for query INSERT INTO wp_woocommerce_sessions (`session_key`, `session_value`, `session_expiry`) VALUES ('9f44732686d68c674405c2c711a707cb', 'a:7:{s:4:\"cart\";s:6:\"a:0:{}\";s:11:\"cart_totals\";s:367:\"a:15:{s:8:\"subtotal\";i:0;s:12:\"subtotal_tax\";i:0;s:14:\"shipping_total\";i:0;s:12:\"shipping_tax\";i:0;s:14:\"shipping_taxes\";a:0:{}s:14:\"discount_total\";i:0;s:12:\"discount_tax\";i:0;s:19:\"cart_contents_total\";i:0;s:17:\"cart_contents_tax\";i:0;s:19:\"cart_contents_taxes\";a:0:{}s:9:\"fee_total\";i:0;s:7:\"fee_tax\";i:0;s:9:\"fee_taxes\";a:0:{}s:5:\"total\";i:0;s:9:\"total_tax\";i:0;}\";s:15:\"applied_coupons\";s:6:\"a:0:{}\";s:22:\"coupon_discount_totals\";s:6:\"a:0:{}\";s:26:\"coupon_discount_tax_totals\";s:6:\"a:0:{}\";s:21:\"removed_cart_contents\";s:6:\"a:0:{}\";s:8:\"customer\";s:687:\"a:26:{s:2:\"id\";s:1:\"0\";s:13:\"date_modified\";s:0:\"\";s:8:\"postcode\";s:0:\"\";s:4:\"city\";s:0:\"\";s:9:\"address_1\";s:0:\"\";s:7:\"address\";s:0:\"\";s:9:\"address_2\";s:0:\"\";s:5:\"state\";s:0:\"\";s:7:\"country\";s:2:\"GB\";s:17:\"shipping_postcode\";s:0:\"\";s:13:\"shipping_city\";s:0:\"\";s:18:\"shipping_address_1\";s:0:\"\";s:16:\"shipping_address\";s:0:\"\";s:18:\"shipping_address_2\";s:0:\"\";s:14:\"shipping_state\";s:0:\"\";s:16:\"shipping_country\";s:2:\"GB\";s:13:\"is_vat_exempt\";s:0:\"\";s:19:\"calculated_shipping\";s:0:\"\";s:10:\"first_name\";s:0:\"\";s:9:\"last_name\";s:0:\"\";s:7:\"company\";s:0:\"\";s:5:\"phone\";s:0:\"\";s:5:\"email\";s:0:\"\";s:19:\"shipping_first_name\";s:0:\"\";s:18:\"shipping_last_name\";s:0:\"\";s:16:\"shipping_company\";s:0:\"\";}\";}', 1615592409)
+ 					ON DUPLICATE KEY UPDATE `session_value` = VALUES(`session_value`), `session_expiry` = VALUES(`session_expiry`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Session_Handler->save_data
+[10-Mar-2021 23:40:36 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'local-wp_woocommerce_sessions-PRIMARY-session_id' for key 'schema_name' in /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/wp-db.php on line 2056
+[10-Mar-2021 23:40:36 UTC] PHP Stack trace:
+[10-Mar-2021 23:40:36 UTC] PHP   1. {main}() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin-ajax.php:0
+[10-Mar-2021 23:40:36 UTC] PHP   2. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-admin/admin-ajax.php:22
+[10-Mar-2021 23:40:36 UTC] PHP   3. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-load.php:37
+[10-Mar-2021 23:40:36 UTC] PHP   4. require_once() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-config.php:77
+[10-Mar-2021 23:40:36 UTC] PHP   5. do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-settings.php:560
+[10-Mar-2021 23:40:36 UTC] PHP   6. WP_Hook->do_action() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/plugin.php:484
+[10-Mar-2021 23:40:36 UTC] PHP   7. WP_Hook->apply_filters() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:316
+[10-Mar-2021 23:40:36 UTC] PHP   8. WC_Install::check_version() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/class-wp-hook.php:292
+[10-Mar-2021 23:40:36 UTC] PHP   9. WC_Install::install() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/includes/class-wc-install.php:188
+[10-Mar-2021 23:40:36 UTC] PHP  10. WC_Install::create_tables() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/includes/class-wc-install.php:303
+[10-Mar-2021 23:40:36 UTC] PHP  11. wpdb->get_var() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-content/plugins/woocommerce/includes/class-wc-install.php:725
+[10-Mar-2021 23:40:36 UTC] PHP  12. wpdb->query() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/wp-db.php:2581
+[10-Mar-2021 23:40:36 UTC] PHP  13. wpdb->_do_query() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/wp-db.php:1945
+[10-Mar-2021 23:40:36 UTC] PHP  14. mysqli_query() /home/manuel/Local Sites/burgerpopmanuchdev/app/public/wp-includes/wp-db.php:2056
+[10-Mar-2021 23:40:36 UTC] WordPress database error Duplicate entry 'local-wp_woocommerce_sessions-PRIMARY-session_id' for key 'schema_name' for query SHOW KEYS FROM wp_woocommerce_sessions WHERE Key_name = 'PRIMARY' AND Column_name = 'session_id' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables
+[10-Mar-2021 23:40:36 UTC] WordPress database error Can't DROP 'session_id'; check that column/key exists for query ALTER TABLE `wp_woocommerce_sessions` DROP PRIMARY KEY, DROP KEY `session_id`, ADD PRIMARY KEY(`session_id`), ADD UNIQUE KEY(`session_key`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables
+[10-Mar-2021 23:41:00 UTC] WordPress database error Duplicate column name 'tax_status' for query ALTER TABLE wp_wc_product_meta_lookup ADD COLUMN `tax_status` varchar(100) NULL default 'taxable' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2021 23:41:00 UTC] WordPress database error Duplicate column name 'tax_class' for query ALTER TABLE wp_wc_product_meta_lookup ADD COLUMN `tax_class` varchar(100) NULL default '' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[10-Mar-2021 23:46:06 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:46:06 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Mar-2021 23:59:22 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:59:22 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Mar-2021 23:59:27 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:59:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Mar-2021 23:59:31 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:59:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Mar-2021 23:59:44 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:59:44 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[10-Mar-2021 23:59:52 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[10-Mar-2021 23:59:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 00:00:47 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 00:00:47 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 00:01:20 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 00:01:20 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 16:47:51 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 16:47:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 16:54:01 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 16:54:01 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 16:54:02 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 16:54:02 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 17:04:09 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 17:04:09 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 17:47:27 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 17:47:27 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:03:51 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:03:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:03:52 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:03:52 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:05:31 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:05:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:05:31 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:05:31 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:05:50 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:05:50 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:05:56 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:05:56 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:06:04 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:06:04 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:06:36 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:06:36 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:06:37 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:06:37 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:07:43 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:07:43 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 18:12:51 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 18:12:51 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 21:55:24 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 21:55:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.
+[11-Mar-2021 21:55:24 UTC] add_to_cart_fragments is deprecated since version 3.0.0! Use woocommerce_add_to_cart_fragments instead.
+[11-Mar-2021 21:55:24 UTC] The WC_Cart::get_cart_url function is deprecated since version 2.5. Replace with wc_get_cart_url.

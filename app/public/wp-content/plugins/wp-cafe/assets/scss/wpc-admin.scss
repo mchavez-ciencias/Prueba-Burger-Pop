@@ -1,0 +1,605 @@
+  @import '_base';
+
+  #toplevel_page_cafe_menu{
+	.toplevel_page_cafe_menu {
+		.dashicons-admin-generic:before {
+			content    : "\e908" !important;
+			font-family: 'wpcafe' !important;
+		}
+	}
+
+}
+
+
+  .wpc_tab_content>.tab-pane {
+  	display      : none;
+  	margin-bottom: 40px;
+  	padding      : 40px;
+  	@include border-radius(10px);
+  	background-color: #fff;
+
+  	@media (min-width: 1024px) {
+  		margin-left: -20px;
+  	}
+  }
+
+  .wpc_tab_content>.tab-pane.active {
+  	display   : block !important;
+  	box-shadow: 0 1px 4px -2px rgba(0, 0, 0, 0.1);
+  }
+
+
+
+  /* disbale for pro */
+  #wp-wpc_rejected_email-wrap,
+  #wp-wpc_confirm_email-wrap,
+  #wp-wpc_admin_booking_cancel_email-wrap,
+  #wp-wpc_admin_booking_confirm_email-wrap {
+  	pointer-events: none;
+  	opacity       : 0.5;
+  	background    : #CCC;
+  }
+
+  /*--------------------------
+  // wpc settings
+  ---------------------------*/
+
+
+  .wpc-tab-title {
+  	font-size     : 20px;
+  	font-weight   : 700;
+  	text-transform: capitalize;
+  	color         : $primary-color;
+  	margin        : 0 0 50px;
+  }
+
+  .wpc-settings {
+  	@media (min-width: 1024px) {
+  		margin: 10px 20px 0px 25px;
+	  }
+  	.wpc-settings-title {
+  		font-size    : 22px;
+  		font-weight  : 700;
+  		margin-bottom: 30px;
+  	}
+
+  	//   tab nav
+  	.wpc-tab {
+  		margin-bottom : 15px;
+  		padding-bottom: 20px;
+
+  		li {
+  			display     : inline-block;
+  			outline     : none;
+  			border      : none;
+  			margin-right: 10px;
+
+  			a {
+  				float           : none;
+  				display         : inline-block;
+  				background-color: #fff;
+  				border          : none;
+  				font-size       : 15px;
+  				padding         : 12px 15px;
+  				@include border-radius(5px);
+  				@include transition();
+  				outline: none;
+  				margin : 0;
+
+  				small {
+  					font-size   : 12px;
+  					display     : block;
+  					padding-left: 24px;
+  					line-height : 12px;
+  					font-weight : 400;
+  					color       : #999;
+  				}
+
+  				i {
+  					margin-right: 5px;
+  				}
+
+  				&[data-id="hooks"] {
+  					i.wpcafe-icon5:before {
+						content: "\e911";
+  						font-size: 12px;
+  					}
+  				}
+
+  				&:focus,
+  				&:hover,
+  				&.nav-tab-active {
+  					background-color: $primary-color;
+  					color           : #fff;
+  					outline         : none;
+  					box-shadow      : none;
+  					border          : none;
+
+  					small {
+  						color: #fff;
+  					}
+  				}
+
+
+
+  			}
+  		}
+  	}
+
+  	//   checkbox style
+  	.wpc-weekly-schedule-list {
+  		margin-bottom: 20px;
+
+  		input[type=checkbox]+label {
+  			cursor       : pointer;
+  			margin-right : 15px;
+  			margin-bottom: 10px;
+  			display      : inline-block;
+  			line-height  : 25px;
+  		}
+
+  		input[type=checkbox] {
+  			display: none;
+  		}
+
+  		input[type=checkbox]+label:before {
+  			content: "\2714";
+  			border : 1px solid #CCCCCC;
+  			@include border-radius(7px);
+  			display       : inline-block;
+  			width         : 25px;
+  			height        : 25px;
+  			vertical-align: bottom;
+  			color         : transparent;
+  			transition    : .2s;
+  			text-align    : center;
+  			line-height   : 25px;
+  			margin-right  : 10px;
+  		}
+
+  		input[type=checkbox]+label:active:before {
+  			transform: scale(0);
+  		}
+
+  		input[type=checkbox]:checked+label:before {
+  			background-color: $primary-color;
+  			border-color    : $primary-color;
+  			color           : #fff;
+  		}
+
+  		input[type=checkbox]:disabled+label:before {
+  			transform   : scale(1);
+  			border-color: #aaa;
+  		}
+
+  		input[type=checkbox]:checked:disabled+label:before {
+  			transform       : scale(1);
+  			background-color: $secondary-color;
+  			border-color    : $secondary-color;
+  		}
+  	}
+	//   label item
+  	.wpc-label-item {
+
+  		.wpc_pb_two {
+  			font-size: 16px;
+  			margin   : 0 0 20px;
+  		}
+
+  		.wpc-meta {
+
+  			.exception_block,
+  			.wpc-schedule-field {
+  				display: flex;
+				flex-wrap: wrap;
+  				.attr-form-control {
+  					margin-right: 10px;
+  				}
+  			}
+
+			  .exception_time_clear,
+			  .wpc_all_day_clear,
+			  .wpc_weekly_clear,
+			  .wpc_multi_clear,
+			  .wpc_pickup_weekly_clear,
+			  .wpc_delivery_weekly_clear {
+  				display     : flex;
+  				align-self  : center;
+  				cursor      : pointer;
+  				margin-right: 10px;
+  			}
+
+  		}
+
+		//   shcedule block
+  		.schedule_block,
+  		.pickup_weekly_block,
+  		.delivery_schedule_block,
+  		.pickup_schedule_block {
+  			margin-bottom: 40px;
+  			position     : relative;
+  			padding-right: 40px;
+
+  			label {
+  				font-size: 15px;
+  			}
+
+  			.wpc-btn {
+  				position: absolute;
+  				right   : 0;
+  				top     : -6px;
+  				padding : 0;
+  			}
+  		}
+		//   esception
+  		.exception_block,
+  		.schedule_block,
+		  .pickup_schedule_block,
+		  .multi_schedule_wrap,
+  		.pickup_weekly_block,
+  		.delivery_schedule_block {
+  			.wpc-btn {
+  				padding         : 0;
+  				width           : 40px;
+  				height          : 40px;
+  				line-height     : 40px;
+  				border-radius   : 50%;
+  				background-color: $secondary-color;
+  			}
+  		}
+
+  		.wpc-weekly-schedule-btn {
+  			margin-bottom: 40px;
+  		}
+
+  		.wpc_flex_reverse {
+
+  			.add_schedule_block,
+  			.wpc-btn,
+  			.add_exception_block {
+  				i {
+  					vertical-align: middle;
+  				}
+  			}
+  		}
+
+  		&.wpc-shcedule-event-item {
+  			align-items: start;
+  		}
+
+  	}
+	//   copy button
+  	.wpc_copy_button {
+  		span {
+  			vertical-align: middle;
+  			line-height   : 16px;
+  		}
+  	}
+
+  	//   pop calender
+  	.picker {
+
+  		.picker__frame,
+  		.picker__holder {
+  			-ms-transform: translateY(0);
+  			transform    : translateY(0);
+  			visibility   : hidden;
+  		}
+
+  		&.picker--opened {
+
+  			.picker__holder,
+  			.picker__frame {
+  				-ms-transform: translateY(0);
+  				transform    : translateY(0);
+  				visibility   : visible;
+  			}
+  		}
+
+  	}
+  }
+
+  /*------------------------
+  Reservation table
+  -----------------------*/
+
+  body.post-type-wpc_reservation {
+  	.wrap {
+  		background-color: #fff;
+  		padding         : 40px 40px 0;
+  		margin-top      : 30px;
+  		@include border-radius(10px);
+  	}
+
+  	.wrap h1.wp-heading-inline {
+  		font-weight: 600;
+  		font-size  : 22px;
+  	}
+
+  	.search-box #post-search-input,
+  	.tablenav .actions select {
+  		padding              : 10px 25px;
+  		border-radius        : 8px;
+  		-webkit-border-radius: 8px;
+  		-ms-border-radius    : 8px;
+  		border               : 1px solid #ededed;
+  		font-size            : 14px;
+  		line-height          : 16px;
+  		color                : #666;
+  		-webkit-appearance   : none;
+  		-moz-appearance      : none;
+  		appearance           : none;
+  	}
+
+  	#search-submit {
+  		padding         : 4px 20px;
+  		border          : none;
+  		background-color: $primary-color;
+  		color           : #fff;
+  		font-weight     : 600;
+  		@include border-radius(5px);
+  	}
+
+  	.tablenav {
+  		margin: 10px 0 30px;
+
+  		.button {
+  			line-height: 38px;
+  			padding    : 0 20px;
+  			border     : none;
+  			@include border-radius(5px);
+  			font-weight: 600;
+  			color      : #101010;
+  			outline    : none;
+
+  			&:hover,
+  			&:focus {
+  				outline: none;
+  			}
+  		}
+		button[name="reserv_export_pro"]{
+			background-color: $primary-color;
+			color: $white-color;
+		}
+  	}
+
+  	.subsubsub {
+  		margin-bottom: 20px;
+  	}
+
+  	.wp-header-end {
+  		visibility      : visible;
+  		margin          : 0;
+  		margin-top      : 20px;
+  		margin-bottom   : 20px;
+  		border-top-color: #ededed;
+  		border-bottom   : none;
+  	}
+
+  	.subsubsub a {
+  		font-weight: 600;
+  		font-size  : 16px;
+  		outline    : none;
+  		color      : $primary-color;
+
+  		&:hover,
+  		&:focus {
+  			outline   : none;
+  			box-shadow: none;
+  			border    : none;
+  		}
+
+  		&.current {
+  			color: #101010;
+  		}
+  	}
+
+  	#post-body #normal-sortables {
+  		min-height: 1px;
+  	}
+
+  	.wp-heading-inline+.page-title-action {
+  		background-color: $primary-color;
+  		color           : #fff;
+  		border          : none;
+  		padding         : 6px 8px;
+  		@include border-radius(5px);
+  	}
+	//   list table 
+  	.wp-list-table {
+  		border: none;
+
+  		thead,
+  		tfoot {
+  			tr {
+
+  				th,
+  				td {
+  					background : #EEF1FF;
+  					border     : none;
+  					font-weight: 500;
+  					line-height: 2em;
+  				}
+  			}
+  		}
+
+  		#the-list {
+  			tr {
+  				background-color: #FBFBFF;
+
+  				td,
+  				th {
+  					border-bottom: 1px solid #EAEAEA;
+  				}
+  			}
+  		}
+  	}
+  }
+
+//   reservation meta
+  #wpc_reservation_meta {
+  	h2.hndle {
+  		font-size    : 18px;
+  		border-bottom: 1px solid #f5f5f5;
+  	}
+
+  	.inside {
+  		padding: 20px 25px 12px;
+  	}
+
+  	&.postbox {
+  		border    : 1px solid #f5f5f5;
+  		box-shadow: none;
+  	}
+
+  }
+
+// doc link
+.doc-link{
+	font-weight: 700;
+	color: $primary-color;
+}
+
+  /*------------------------
+  responsive
+  -----------------------*/
+  @media (max-width: 992px) {
+  	.wpc-settings {
+  		.wpc-tab {
+  			li {
+  				a {
+  					font-size: 14px;
+  					padding  : 10px 16px;
+  				}
+  			}
+  		}
+
+  	}
+
+  	.wpc-label-item {
+  		.wpc-label {
+  			margin-bottom: 20px;
+  		}
+
+  		.wpc-label,
+  		.wpc-meta {
+  			float: none;
+  		}
+  	}
+  }
+
+  @media (max-width: 767px) {
+  	.wpc-label-item {
+
+  		.wpc-settings-input,
+  		.wpc-form-control {
+  			width: 100%;
+  		}
+  	}
+  }
+
+  .flatpickr-calendar.showTimeInput.noCalendar {
+  	width: 190px;
+  }
+
+  .flatpickr-time input:hover,
+  .flatpickr-time .flatpickr-am-pm:hover,
+  .flatpickr-time input:focus,
+  .flatpickr-time .flatpickr-am-pm:focus {
+  	background-color: #fff;
+  	outline         : none;
+  	border          : none;
+  	box-shadow      : none;
+  }
+.hide_field{
+	display: none !important;
+}
+.wpc_weekly_clear,.exception_time_clear,.wpc_all_day_clear,.wpc_multi_clear {
+color: #09C4B7;
+}
+.wpc-label-item .wpc-label {
+	width: 260px;
+	margin-right: 28px;
+	float: left;
+}
+
+// notice banner 
+.wpc-notice-buy-pro-banner{
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	background-color: #e7272d;
+	min-height: 190px;
+	.notice-banner-link{
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+	  }
+	  .notice-dismiss:before{
+		color: #fff;
+	  }
+  
+  }
+
+  @media(max-width: 1600px){
+	.wpc-notice-buy-pro-banner{
+	  min-height: 130px;
+	}
+  }
+  @media(max-width: 1200px){
+	.wpc-notice-buy-pro-banner{
+	  min-height: 100px;
+	}
+  }
+
+  .wpc-icon-get-pro {
+	font-size: 17px; 
+	color: #E7272D;
+  }
+  
+  .wpc-text-get-pro {
+	color: #E7272D;
+	font-weight: bold;
+  }
+  
+  .wpc-plugin-meta-rate-icon {
+	color: #E7272D;
+	font-size: 10px;
+	display: inline-block;
+	vertical-align: baseline;
+	width: auto;
+  }
+  
+
+  .post-type-metform-form .modal-backdrop {
+	z-index: 999;
+  }
+  .wpc-licence-parent{
+	margin-top: 30px;
+	margin-right: 30px;
+  }
+  .wpc-licence-input-box {
+	width: 765px;
+  }
+  
+.wpc-default-guest-message {
+	color: #e7272d;
+  }
+  
+.wpc_success_message {
+	display: none;
+	text-align: center;
+	background: #d7ffe3;
+	padding: 10px;
+	margin-bottom: 20px;
+  }
+  .wpc_error_message {
+	display: none;
+	text-align: center;
+	background: #ff8f8f4a;
+	padding: 10px;
+	margin-bottom: 20px;
+  }

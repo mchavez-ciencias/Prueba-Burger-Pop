@@ -1,0 +1,4 @@
+2019-10-10T10:15:01+00:00 CRITICAL Cannot redeclare footer_center_widgets_init() (previously declared in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\core\hooks\widget-areas.php:40) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\core\hooks\widget-areas.php on line 54
+
+2019-10-10T10:17:51+00:00 CRITICAL Cannot redeclare footer_three_widgets_init() (previously declared in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\core\hooks\widget-areas.php:54) in F:\wamp\www\panel\xpeedstudio\wp\gloreya\wp-content\themes\gloreya\core\hooks\widget-areas.php on line 68
+

@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'wpcafe';
+  src:  url('../fonts/wpcafe.eot?b5coso');
+  src:  url('../fonts/wpcafe.eot?b5coso#iefix') format('embedded-opentype'),
+    url('../fonts/wpcafe.ttf?b5coso') format('truetype'),
+    url('../fonts/wpcafe.woff?b5coso') format('woff'),
+    url('../fonts/wpcafe.svg?b5coso#wpcafe') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+
+i[class^="wpcafe-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wpcafe' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wpcafe-icon-arrow-right:before {
+  content: "\e900";
+}
+.wpcafe-customize:before {
+  content: "\e901";
+}
+.wpcafe-details_icon:before {
+  content: "\e902";
+}
+.wpcafe-general_icon:before {
+  content: "\e903";
+}
+.wpcafe-minus:before {
+  content: "\e904";
+}
+.wpcafe-plus:before {
+  content: "\e905";
+}
+.wpcafe-shortcode_icon:before {
+  content: "\e906";
+}
+.wpcafe-user_icon:before {
+  content: "\e907";
+}
+.wpcafe-logo_icon:before {
+  content: "\e908";
+}
+.wpcafe-icon1:before {
+  content: "\e909";
+}
+.wpcafe-icon2:before {
+  content: "\e90a";
+}
+.wpcafe-icon3:before {
+  content: "\e90b";
+}
+.wpcafe-icon4:before {
+  content: "\e90c";
+}
+.wpcafe-shortcode_icon1:before {
+  content: "\e90d";
+}
+.wpcafe-cart_icon:before {
+  content: "\e90e";
+}
+.wpcafe-next:before {
+  content: "\e90f";
+}
+.wpcafe-previous:before {
+  content: "\e910";
+}
+.wpcafe-icon6:before {
+  content: "\e911";
+}
+.wpcafe-icon5:before {
+  content: "\e912";
+}
